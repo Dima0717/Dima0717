@@ -4,8 +4,8 @@
 - Php
 - 
 -
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on готов к любой стажировки,возможно я буду интересен вам)
+- 📫 How to reach me owwe46@gmail.com , жду ваших предложений)
 
 <!---
 Dima0717/Dima0717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
