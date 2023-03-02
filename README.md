@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dima0717
-- 👀 I’m interested in ...  программирование на javaScript
+- 👀 I’m interested in ...  программирование на php
 - 🌱 I’m currently learning  thon
-- JavaScript
+- Php
 - 
 -
 - 💞️ I’m looking to collaborate on ...
